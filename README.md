@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Patrick</h1>
 
+<!--
 <p align="center">
   <a href="https://github.com/fishroot">
     <img alt="confetti" src="./.github/assets/confetti.svg" width="100%" />
   </a>
 </p>
+-->
 
 <div align="center">
   <span>I am a </span>
   <strong>Mathematician</strong>, <strong>Data Scientist</strong> and <strong>Software Engineer</strong>
 </div>
 <p align="center">
-  <span>Based in</span>
-  <strong>Heidelberg, Germany</strong> 🇩🇪
+  <span>based in</span>
+  <strong>Heidelberg, Germany</strong>
 </p>
 
 <div align="center">
