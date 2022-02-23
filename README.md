@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <span>I am a </span>
+  <span>I'm a </span>
   <strong>Mathematician</strong>, <strong>Data Scientist</strong> and <strong>Software Engineer</strong>
 </div>
 <p align="center">
@@ -18,8 +18,6 @@
 </p>
 
 <div align="center">
-  I don't spend much of my time on social media, best way to reach me is on LinkedIn.
-  <br />
   <a href="https://www.frootlab.org">Website</a>
   <span> · </span>
   <a href="https://www.linkedin.com/in/patrick-michl/">LinkedIn</a>
