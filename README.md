@@ -10,7 +10,7 @@
 
 <div align="center">
   <span>I'm a </span>
-  <strong>Mathematician</strong>, <strong>Data Scientist</strong> and <strong>Software Engineer</strong>
+  <strong>Mathematician</strong> and <strong>Software Craftsman</strong>
 </div>
 <p align="center">
   <span>based in</span>
