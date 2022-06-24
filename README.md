@@ -1,7 +1,7 @@
 ![Header image](https://raw.githubusercontent.com/fishroot/fishroot/master/.github/assets/banner.webp)
 <div>
   <span>I'm a </span>
-  <strong>Mathematician</strong> and <strong>Software Craftsman</strong> <span>based in</span>
+  <strong>Data Scientist</strong> <span>based in</span>
   <strong>Heidelberg, Germany</strong>
 </div>
 <br>
